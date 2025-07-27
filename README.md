@@ -28,8 +28,8 @@ This project showcases how to build and use an MCP server that exposes SQLite da
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
-cd local-client
+git clone https://github.com/ELISHA1994/mcp-llama-sqlite-bridge.git
+cd mcp-llama-sqlite-bridge
 ```
 
 2. Create a virtual environment:
