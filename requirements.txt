@@ -1,0 +1,5 @@
+mcp>=1.9.1
+llama-index-tools-mcp>=0.2.6
+llama-index-llms-ollama>=0.6.2
+nest-asyncio>=1.6.0
+llama-index>=0.12.0
